@@ -1,5 +1,3 @@
-# Create a password generator 
-
 # import modules
 import string
 import random
