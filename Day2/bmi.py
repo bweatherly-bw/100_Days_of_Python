@@ -13,3 +13,5 @@ height_as_float = float(height)
 bmi = weight_as_int / (height_as_float * height_as_float)
 bmi_as_int = int(bmi)
 print(bmi_as_int)
+
+## test
